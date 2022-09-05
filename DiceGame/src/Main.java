@@ -28,6 +28,7 @@ public class Main {
 
         System.out.println("");
         System.out.println("Total amount on dice: " + total); //adds the total number of randomizes number from dice
+        System.out.println("Thanks for playing"); //ends game
         input.close();
         
     }//end of program
